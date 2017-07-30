@@ -1,6 +1,8 @@
-# No-Tobacco
+# Tech Bazaar
 
-Website to spread awarness about harmful effects of tobacco. This website was made as a school project in class X.
+This website was made as a school project in class X. 
+
+Welcome to The Tech Bazaar.  The website displays information about the various I.T. Companies and what's going with them, Latest gadgets and technologies and even more.
 
 <b>Tech Bazaar logo is self made</b>
 
