@@ -1,6 +1,6 @@
 # Tech Bazaar
 
-This website was made as a school project in class X. 
+This website was made as a school project in class IX. 
 
 Welcome to The Tech Bazaar.  The website displays information about the various I.T. Companies and what's going with them, Latest gadgets and technologies and even more.
 
