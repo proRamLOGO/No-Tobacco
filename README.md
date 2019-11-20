@@ -6,4 +6,4 @@ Welcome to The Tech Bazaar.  The website displays information about the various 
 
 <b>Tech Bazaar logo is self made</b>
 
-To visit the website click [here](http://techbazzar.shubhbansal.tech/).
+To visit the website click [here](http://techbazaar.shubhbansal.tech/).
